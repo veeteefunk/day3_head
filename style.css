@@ -1,0 +1,30 @@
+body {
+    background-color: #FFFDFA;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.courier {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container {
+    width: 60%;
+    margin: 0rem 2rem;
+}
+
+.element {
+    margin: 2rem 0rem;
+}
+
+.element h1 {
+    background-color: lightblue;
+    padding: 1rem;
+    border-radius: 5px;
+    font-size: 1.6rem;
+}
+
+.element p {
+    line-height: 1.5rem;
+    font-size: 1.2rem;
+}
+
